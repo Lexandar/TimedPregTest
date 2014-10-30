@@ -120,7 +120,7 @@ float ligFromRGB(int r, int g, int b){
     self.hasImageData = NO;
     self.torchOn = YES;
     self.videoStopped = YES;
-    }ßß
+    }
 
 - (void)startCam
 {
